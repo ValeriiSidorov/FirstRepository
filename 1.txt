@@ -4,3 +4,4 @@ Goog bye!
 dsfsf
 Line from user1
 Some new feature
+LINE FROM USER1(REBASE LESSON)
